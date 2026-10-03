@@ -10,7 +10,7 @@ require (
 	github.com/rcarmo/go-te v0.1.0
 	github.com/stretchr/testify v1.12.1
 	github.com/trzsz/kcp-go/v5 v5.6.73
-	github.com/trzsz/quic-go v0.62.0
+	github.com/trzsz/quic-go v0.63.0
 	github.com/trzsz/shellescape v1.6.0
 	github.com/trzsz/smux v1.6.0
 	golang.org/x/crypto v0.57.0
